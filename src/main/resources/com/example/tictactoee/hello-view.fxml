@@ -14,7 +14,7 @@
          <children>
             <HBox alignment="CENTER" prefHeight="100.0" prefWidth="600.0">
                <children>
-                  <Label fx:id="label_header" text="SILAHKAN PILIH KATEGORI">
+                  <Label fx:id="label_header" text="PILIH PEMAIN PERTAMA">
                      <font>
                         <Font name="System Bold" size="38.0" />
                      </font>
