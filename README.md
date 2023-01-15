@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/87690913/212523157-6056f0cb-3f27-43b8-8e93-9a4365459b86.png)
 # DRAW
 ![image](https://user-images.githubusercontent.com/87690913/212523171-34573b59-0061-41d8-b06a-72ce56195ad5.png)
-# SET UP
+# TOOLS
 - INTELLIJ IDEA ULTIMATE (https://www.jetbrains.com/idea/)
 - JAVA 19 (https://www.oracle.com/java/technologies/downloads/#java19)
 - JAVAFX 19 (https://gluonhq.com/products/javafx/)
